@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srushtisp09/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srushtisp09/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srushtisp09/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
