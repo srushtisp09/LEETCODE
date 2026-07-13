@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/srushtisp09/LEETCODE/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/srushtisp09/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/srushtisp09/LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
