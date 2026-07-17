@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/srushtisp09/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/srushtisp09/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/srushtisp09/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/srushtisp09/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
