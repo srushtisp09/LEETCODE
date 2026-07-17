@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/srushtisp09/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/srushtisp09/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/srushtisp09/LEETCODE/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srushtisp09/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/srushtisp09/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/srushtisp09/LEETCODE/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/srushtisp09/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
