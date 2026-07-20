@@ -5,6 +5,9 @@ class Solution {
             return false;
 
         }
+        if(s.length()==0){
+            return false;
+        }
         for(int i=0;i<s.length();i++){
             freq[s.charAt(i)-'a']++;
             freq[t.charAt(i)-'a']--;
