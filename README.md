@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/srushtisp09/LEETCODE/tree/master/0056-merge-intervals) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srushtisp09/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/srushtisp09/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srushtisp09/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/srushtisp09/LEETCODE/tree/master/0242-valid-anagram) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/srushtisp09/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
