@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/srushtisp09/LEETCODE/tree/master/0056-merge-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/srushtisp09/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srushtisp09/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
