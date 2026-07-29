@@ -1,9 +1,12 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
+        int start=0;
+        int end=nums.length;
         int result=0;
-        for(int i =0;i<nums.length;i++){
-            result=result^nums[i] ;
-       }
-       return result;
+ while(start<end){
+    result=result^nums[start];
+    start++;
+ }
+ return result;
     }
 }
