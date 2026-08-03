@@ -112,4 +112,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
