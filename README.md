@@ -115,17 +115,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
