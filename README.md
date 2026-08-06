@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/srushtisp09/LEETCODE/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/srushtisp09/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srushtisp09/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srushtisp09/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/srushtisp09/LEETCODE/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
