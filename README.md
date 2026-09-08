@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/srushtisp09/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/srushtisp09/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/srushtisp09/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/srushtisp09/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtisp09/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/srushtisp09/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/srushtisp09/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/srushtisp09/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Linked List
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/srushtisp09/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/srushtisp09/LEETCODE/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
