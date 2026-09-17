@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/srushtisp09/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/srushtisp09/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srushtisp09/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/srushtisp09/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushtisp09/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/srushtisp09/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |
