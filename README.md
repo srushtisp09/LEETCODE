@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srushtisp09/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/srushtisp09/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/srushtisp09/LEETCODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/srushtisp09/LEETCODE/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/srushtisp09/LEETCODE/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/srushtisp09/LEETCODE/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/srushtisp09/LEETCODE/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/srushtisp09/LEETCODE/tree/master/0088-merge-sorted-array) |
